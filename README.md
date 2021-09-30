@@ -45,6 +45,7 @@ The authors would also like to thank all the developers that were and are involv
 The authors would like to thank the following institutions/researchers for providing the data collected:
 - Official sugarcane agricultural productivity in kg/ha for all cities in São Paulo state (SIDRA IBGE: https://sidra.ibge.gov.br/pesquisa/pam/tabelas ). Online resource.
 - Historical meteorological data (precipitation, maximum and minimum temperature, wind speed, and solar radiation): Xavier, A.C., King, C.W. and Scanlon, B.R., 2016. Daily gridded meteorological variables in Brazil (1980–2013). International Journal of Climatology, 36(6), pp.2644-2659.
+- Shapefiles can be obtained from IBGE: https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html?=&t=downloads (folder municipio_2020 > UFs > SP > SP_Municipios_2020.zip
 
 ## Acknowledgements:
 This work was carried out at the Center for Artificial Intelligence (C4AI-USP) with support from the following institutions: São Paulo Research Foundation (FAPESP) Grants \#2019/07665-4 and \#2014/50848-9, IBM Corporation, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – CAPES (finance code 001), CAPES Grant 16/2014, Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) Grant 465501/2014-1, National Institute of Science and Technology for Climate Change Phase 2 (INCT-II), the graduate program in Hydraulics and Sanitary Engineering (USP-EESC), and regular funding to post-graduate program in Hydraulics and Sanitation of USP.
