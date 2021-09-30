@@ -38,8 +38,12 @@ The authors would also like to thank all the developers that were and are involv
 - SciPy: https://www.scipy.org/
 - Geopandas: https://geopandas.org/
 
-The authors would also like to thank all the developers that were and are involved on the development of the following R libraries: 
-- insert R libraries
+The authors would also like to thank all the developers that were and are involved on the development of the following R packages: 
+- precintcon: https://cran.r-project.org/web/packages/precintcon/
+- dplyr: https://cran.r-project.org/web/packages/dplyr/index.html
+- reshape: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/reshape
+- tidyr: https://cran.r-project.org/web/packages/tidyr/index.html
+- lubridate: https://cran.r-project.org/web/packages/lubridate/index.html
 
 ## Credits for the dataset:
 The authors would like to thank the following institutions/researchers for providing the data collected:
