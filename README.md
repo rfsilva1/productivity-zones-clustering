@@ -13,11 +13,14 @@ Reference of the paper and to cite this repository:
 - The reference will be inserted after the final version of the paper is accepted
 
 ## To Do (further research, out of the scope of this paper):
+- gather real time data
+- implement additional drought-related indices
+- modify the code to consider also sattelite images
+- incorporate new variables and more recent data
 - optimize code for deployment in production
 - better integrate the data processing and clustering implementation codes
 - automate data collection
 - deploy code on webapp for evaluating multiple crops, years, and hazards
-- incorporate new variables and more recent data
 - implement other clustering models and compare the final results
 - implement and evaluate additional metrics
 
